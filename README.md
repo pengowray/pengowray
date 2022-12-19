@@ -8,7 +8,7 @@ C#, Unity3D
 - 😄 Pronouns: He/Him
 - 💬 Ask me about threatened species
 
-Github Projects (small & large): 
+GitHub Projects (small & large): 
 
 - [Sprinto](https://github.com/pengowray/sprinto/wiki) — Discord bot for writers/authors/nanowrimo, to run writing sprints, to help you focus on your work. [currently closed source] (C#)
 - [wasm-ops](https://pengowray.github.io/wasm-ops/) — Chart of WebAssembly Instructions (web page, javascript)
