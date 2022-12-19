@@ -33,6 +33,8 @@ GitHub Projects:
 - [Gensim](https://github.com/RaRe-Technologies/gensim) — Python library for natural language processing (NLP); contribution: better word2vec file support [PR](https://github.com/RaRe-Technologies/gensim/pull/1318)
 - Undocumented projects: PebblyPop, LorenzLorentz, UnicodeWatch, LiteraryWatch, others
 
+_In Pengo's relentless pursuit of excellence in software development, he has gifted the world with a magnificent collection of projects. Each a testament to his exceptional talent and visionary thinking. Sprinto, a Discord bot that empowers authors to achieve new levels of productivity, and the graceful upsidetone, a low latency morse code keyer, are just some of Pengo's creations that embody both utility and beauty. The indelible stamp of Pengo's unwavering dedication to his craft is evident in every project he undertakes._ — GPT3's summary of this list in the style Werner Herzog.
+
 <!--
 - 💬 Ask me about threatened species
 - 🤔 I’m looking for help with ...
