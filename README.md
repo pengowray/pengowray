@@ -1,14 +1,13 @@
 ### Pengo Wray
 
-C#, Unity3D
-
-- 🔭 I’m currently working on a Morse code game. Also Sprinto.
+- 🔭 I’m currently working on a Morse code game (Unity). Also Sprinto (C#).
 - 🌱 I’m currently learning Morse code
 - 👯 I’m looking to collaborate on a game
 - 😄 Pronouns: He/Him
-- 💬 Ask me about threatened species
 
-GitHub Projects (small & large): 
+I'm a developer with a wide range of experience in C#, JavaScript, and Python. I have a varied portfolio of projects, including Discord bots, web services, and libraries for parsing and formatting data. I've also made contributions to several open source projects including LiveSplit and the dotnet runtime.
+
+GitHub Projects: 
 
 - [Sprinto](https://github.com/pengowray/sprinto/wiki) — Discord bot for writers/authors/nanowrimo, to run writing sprints, to help you focus on your work. [currently closed source] (C#); on 25,000 Discord servers
 - [wasm-ops](https://pengowray.github.io/wasm-ops/) — Chart of WebAssembly Instructions (web page, javascript)
@@ -32,9 +31,10 @@ GitHub Projects (small & large):
 - [TimTheWordWarBot](https://github.com/pengowray/TimTheWordWarBot) — Contributed minor fix (Java)
 - [standingwave3](https://github.com/pengowray/standingwave3) — AS3 (ActionScript3) audio library; contribution: bug fixes
 - [Gensim](https://github.com/RaRe-Technologies/gensim) — Python library for natural language processing (NLP); contribution: better word2vec file support [PR](https://github.com/RaRe-Technologies/gensim/pull/1318)
-- Undocumented projects: PebblyPop, LorenzLorentz, UnicodeWatch, LiteraryWatch
+- Undocumented projects: PebblyPop, LorenzLorentz, UnicodeWatch, LiteraryWatch, others
 
 <!--
+- 💬 Ask me about threatened species
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
