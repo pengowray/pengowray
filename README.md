@@ -25,6 +25,7 @@ GitHub Projects:
 - [dotnet runtime](https://github.com/dotnet/runtime) — discovered bug and contributed fix for TimeSpan.Parse(string) in dotnet system library ([pull request](https://github.com/dotnet/coreclr/pull/21077))
 - [LiveSplit](https://github.com/LiveSplit/LiveSplit) — minor contributions to simplify time formatting. [PR](https://github.com/LiveSplit/LiveSplit/pull/1457) (C#)
 - [HomeConfig](https://github.com/pengowray/homeconfig) — Library to quickly find and read a config file (C#)
+- [youtube-speed-tweak](https://github.com/pengowray/youtube-speed-tweak) — A Firefox extension to increase youtube playback speed more beyond 2x
 - [qubero](https://github.com/pengowray/qubero) — Hex Editor with support for inserting or deleting bits (Java)
 - [snakey](https://pengowray.github.io/snakey/js-dos/) — Snakey DOS game written in C (playable in browser)
 - [a2max](https://github.com/pengowray/a2max) — Integer Basic boot loader with maximum compatibility for the Apple II series and emulators
