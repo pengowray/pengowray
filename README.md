@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on a game
 - 😄 Pronouns: He/Him
 
-I'm a developer with a wide range of experience in C#, JavaScript, and Python. I have a varied portfolio of projects, including Discord bots, web services, and libraries for parsing and formatting data. I've also made contributions to several open source projects including LiveSplit and the dotnet runtime.
+I'm a developer with a wide range of experience in C#, JavaScript, and Python. I have a varied portfolio of projects, including Discord bots, web services, and libraries for parsing and formatting data. I've also made contributions to several open source projects including LiveSplit and the dotnet runtime. Previous github username: quole.
 
 GitHub Projects: 
 
