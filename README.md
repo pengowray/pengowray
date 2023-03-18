@@ -13,7 +13,7 @@ GitHub Projects:
 - [wasm-ops](https://pengowray.github.io/wasm-ops/) — Chart of WebAssembly Instructions (web page, javascript)
 - [upsidetone](https://github.com/pengowray/upsidetone) — Low latency morse code keyer app for Windows (C#)
 - [TimeSpanParser](https://github.com/pengowray/TimeSpanParser) — C# parser library for human-written time spans such as "5 mins"
-- [Streamling NowPlaying Widget](https://pengowray.itch.io/streamling) [itch.io] Find what music is playing on Spotify, VLC, Winamp, etc and display it (e.g. in OBS) via a built-in webserver (C# and javascript; closed source)
+- [Streamling Overlay app](https://pengowray.itch.io/streamling) [itch.io] Find what music is playing on Spotify, VLC, Winamp, etc and display it (e.g. in OBS) via a built-in webserver (C# and javascript; closed source)
 - [beastie bot](https://github.com/pengowray/beastiebot) — Tool for generating lists of threatened species formatted for Wikipedia, and other related tools (C#)
 - [CommentedList](https://github.com/pengowray/CommentedList) — C# library to randomly pick a line from a text; allows comments, annotations, and probability adjustments
 - [send em tiny](https://github.com/pengowray/sendemtiny) Windows utility to send Unicode characters, configured by renaming an .exe file (C#) 
