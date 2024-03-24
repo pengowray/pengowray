@@ -15,7 +15,7 @@ GitHub Projects:
 - [Streamling Overlay app](https://pengowray.itch.io/streamling) [itch.io] Find what music is playing on Spotify, VLC, Winamp, etc and display it (e.g. in OBS) via a built-in webserver (C# and javascript; closed source)
 - [beastie bot](https://github.com/pengowray/beastiebot) — Tool for generating lists of threatened species formatted for Wikipedia, and other related tools (C#)
 - [CommentedList](https://github.com/pengowray/CommentedList) — C# library to randomly pick a line from a text; allows comments, annotations, and probability adjustments
-- [ScreenSleeper](https://github.com/pengowray/ScreenSleeper) — MQTT listener for Windows to turn off the screen
+- [ScreenSleeper](https://github.com/pengowray/ScreenSleeper) — MQTT listener for Windows to turn off the screen (C#)
 - [send em tiny](https://github.com/pengowray/sendemtiny) Windows utility to send Unicode characters, configured by renaming an .exe file (C#) 
 - [VaraHuffmanNet](https://github.com/pengowray/VaraHuffmanNet) — Rewrite and document the compressed VARA protocol format associated with Winlink in amateur radio (C# rewrite of 90s VB)
 - "[Worst Wordle](https://github.com/pengowray/WorstWordle)" — Script to find the most ambiguous ("worst") four-letter combos in Wordle, namely "__IGHT" (C#)
