@@ -16,9 +16,10 @@ GitHub Projects:
 - [beastie bot](https://github.com/pengowray/beastiebot) — Tool for generating lists of threatened species formatted for Wikipedia, and other related tools (C#)
 - [CommentedList](https://github.com/pengowray/CommentedList) — C# library to randomly pick a line from a text; allows comments, annotations, and probability adjustments
 - [Random Wire Calculator](https://pengowray.github.io/random-wire-calc/) — Online long-wire length calculator and plot for amateur radio enthusiasts. (JavaScript)
+- [FT8 enc](https://pengowray.github.io/ft8_enc/) — Online FT8 message to audio encoder for amateur radio enthusiasts (JavaScript/WASM)
 - [ScreenSleeper](https://github.com/pengowray/ScreenSleeper) — MQTT listener for Windows to turn off the screen (C#)
 - [send em tiny](https://github.com/pengowray/sendemtiny) Windows utility to send Unicode characters, configured by renaming an .exe file (C#) 
-- [VaraHuffmanNet](https://github.com/pengowray/VaraHuffmanNet) — Rewrite and document the compressed VARA protocol format associated with Winlink in amateur radio (C# rewrite of 90s VB)
+- [VaraHuffmanNet](https://github.com/pengowray/VaraHuffmanNet) — Rewrite and document the compressed VARA protocol format associated with Winlink in amateur radio (C# rewrite of VB6 code)
 - "[Worst Wordle](https://github.com/pengowray/WorstWordle)" — Script to find the most ambiguous ("worst") four-letter combos in Wordle, namely "__IGHT" (C#)
 - [hparrot](https://github.com/pengowray/hparrot) — simulate a toy parrot's audio filter (C#)
 - [thrallname](https://github.com/pengowray/thrallname) — Generate a fantasy name (JavaScript rewrite of a spreadsheet)
