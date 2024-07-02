@@ -16,7 +16,7 @@ GitHub Projects:
 - [beastie bot](https://github.com/pengowray/beastiebot) — Tool for generating lists of threatened species formatted for Wikipedia, and other related tools (C#)
 - [CommentedList](https://github.com/pengowray/CommentedList) — C# library to randomly pick a line from a text; allows comments, annotations, and probability adjustments
 - [Random Wire Calculator](https://pengowray.github.io/random-wire-calc/) — Online long-wire length calculator and plot for amateur radio enthusiasts. (JavaScript)
-- [FT8 enc](https://pengowray.github.io/ft8_enc/) — Online FT8 message to audio encoder for amateur radio enthusiasts (JavaScript/WASM)
+- [FT8 Player](https://pengowray.github.io/ft8play/) — Online visualizer and player for FT8, which is a mode for sending short messages popular with amateur radio enthusiasts. (JavaScript/WASM)
 - [ScreenSleeper](https://github.com/pengowray/ScreenSleeper) — MQTT listener for Windows to turn off the screen (C#)
 - [send em tiny](https://github.com/pengowray/sendemtiny) Windows utility to send Unicode characters, configured by renaming an .exe file (C#) 
 - [VaraHuffmanNet](https://github.com/pengowray/VaraHuffmanNet) — Rewrite and document the compressed VARA protocol format associated with Winlink in amateur radio (C# rewrite of VB6 code)
