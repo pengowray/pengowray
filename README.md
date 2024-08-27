@@ -3,14 +3,17 @@
 - 🔭 I’m currently working on some things, and also Sprinto (C#).
 - 🌱 I’m currently learning Morse code
 - 👯 I might be looking to collaborate on a game
+- Previous github username: quole.
 
-I'm a developer with a wide range of experience in C#, JavaScript, and Python. I have a varied portfolio of projects, including Discord bots, web services, and libraries for parsing and formatting data. I've also made contributions to several open source projects including LiveSplit and the dotnet runtime. Previous github username: quole.
+**Information design** is the theme connecting many of my projects. That is, many of my works are about creating a way of presenting information so it might be efficiently and effectively understood. Whether the canvas is a one page app, a Discord bot, a Wikipedia template, a photograph, a game design document, or the layout of code itself, information design is a core principle. Some day I might use principles of information design to explain this better.
+
+I'm a developer with a wide range of experience in C#, JavaScript, and Python. I have a varied portfolio of projects, including Discord bots, amateur radio related projects, and libraries for parsing and formatting data. I've also made contributions to several open source projects including LiveSplit and the dotnet runtime.
 
 GitHub Projects: 
 
 - [Sprinto](https://github.com/pengowray/sprinto/wiki) — Discord bot for writers/authors/nanowrimo, to run writing sprints, to help you focus on your work. [currently closed source] (C#); now found on 36,657 Discord servers
 - [wasm-ops](https://pengowray.github.io/wasm-ops/) — Chart of WebAssembly Instructions (web page, JavaScript)
-- [upsidetone](https://github.com/pengowray/upsidetone) — Low latency morse code keyer app for Windows (C#)
+- [upSidetone](https://github.com/pengowray/upsidetone) — Low latency morse code keyer app for Windows (C#)
 - [TimeSpanParser](https://github.com/pengowray/TimeSpanParser) — C# parser library for human-written time spans such as "5 mins"
 - [Streamling Overlay app](https://pengowray.itch.io/streamling) [itch.io] Find what music is playing on Spotify, VLC, Winamp, etc and display it (e.g. in OBS) via a built-in webserver (C# and JavaScript; closed source)
 - [beastie bot](https://github.com/pengowray/beastiebot) — Tool for generating lists of threatened species formatted for Wikipedia, and other related tools (C#)
@@ -35,6 +38,8 @@ GitHub Projects:
 - [standingwave3](https://github.com/pengowray/standingwave3) — AS3 (ActionScript3) audio library; contribution: bug fixes
 - [Gensim](https://github.com/RaRe-Technologies/gensim) — Python library for natural language processing (NLP); contribution: better word2vec file support [PR](https://github.com/RaRe-Technologies/gensim/pull/1318)
 - Undocumented projects: PebblyPop, LorenzLorentz, UnicodeWatch, LiteraryWatch, mpegdemo/h264demo, others
+
+
 - 
 <!--
 - 💬 Ask me about threatened species
