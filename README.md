@@ -23,6 +23,7 @@ Projects:
 - [qubero](https://github.com/pengowray/qubero) — Hex Editor with support for inserting or deleting bits (Java)
 - [snakey](https://pengowray.github.io/snakey/js-dos/) — Snakey DOS game written in C (playable in browser)
 - [youtube-speed-tweak](https://github.com/pengowray/youtube-speed-tweak) — A Firefox extension to increase youtube playback speed beyond 2x
+- [Word Counter for .epub ebook files](https://pengowray.github.io/word-count-epub/)
 - [a2max](https://github.com/pengowray/a2max) — Integer Basic boot loader with maximum compatibility for the Apple II series and emulators
 - Other/private/undocumented projects: PebblyPop, LorenzLorentz, UnicodeWatch, LiteraryWatch, mpegdemo/h264demo, ...
 
