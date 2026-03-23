@@ -38,7 +38,7 @@ Amateur radio specific projects:
 
 Projects with code contributions:
 - [dotnet runtime](https://github.com/dotnet/runtime) — discovered bug and contributed fix for TimeSpan.Parse(string) in dotnet system library ([pull request](https://github.com/dotnet/coreclr/pull/21077) Note my previous github username was Quole)
-- [ia: official command-line interface tool for the Internet Archive (archive.org)](https://github.com/jjjake/internetarchive) — discovered path traversal vulnerability (CVE-2025-58438)[https://github.com/advisories/GHSA-wx3r-v6h7-frjp]; contributed code for patch
+- [Official command-line interface tool for the Internet Archive (archive.org)](https://github.com/jjjake/internetarchive) — discovered path traversal vulnerability in `ia` [CVE-2025-58438](https://github.com/advisories/GHSA-wx3r-v6h7-frjp) and contributed a patch
 - [word2vec-api](https://github.com/pengowray/word2vec-api) (Python) Simple web service providing a word embedding model (contributions: updated from python 2 → 3; added a new setting)
 - [LiveSplit](https://github.com/LiveSplit/LiveSplit) — minor contributions to simplify time formatting. [PR](https://github.com/LiveSplit/LiveSplit/pull/1457) (C#)
 - [TimTheWordWarBot](https://github.com/pengowray/TimTheWordWarBot) — Contributed minor fix (Java)
