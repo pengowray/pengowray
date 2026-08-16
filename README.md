@@ -11,7 +11,7 @@ Several of my projects are experiments in _information design_, searching for wa
 I run a Discord bot (Sprinto) which helps authors and writing groups stay focused on their craft.
 
 General projects:
-- [Sprinto](https://sprintobot.com) | [github](https://github.com/pengowray/sprinto) — Discord bot for writers/authors/nanowrimo, to run writing sprints, to help you focus on your work. Now found on 50,000 Discord servers [currently closed source] (C#)
+- [Sprinto](https://sprintobot.com) | [github](https://github.com/pengowray/sprinto) — Discord bot for writers/authors/nanowrimo, to run writing sprints, to help you focus on your work. Now found on 55,000 Discord servers [currently closed source] (Rust / C#)
 - [Oversample](https://app.oversample.com/) | [github](https://github.com/pengowray/oversample) — Online audio playback and analysis software, focused on bat calls (Rust, Leptos)
 - [π Checker](https://pengowray.github.io/pi-checker/) | [github](https://github.com/pengowray/pi-checker) — Check how many digits of pi you can remember
 - [TimeSpanParser](https://github.com/pengowray/TimeSpanParser) — Parser for any human input of a time span such as "5 mins" (C# library)
